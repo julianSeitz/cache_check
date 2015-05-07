@@ -10,7 +10,6 @@ namespace HDNET\CacheCheck\Domain\Repository;
 
 use HDNET\CacheCheck\Domain\Model\Cache;
 use HDNET\CacheCheck\Service\SortService;
-use TYPO3\CMS\Extbase\Utility\DebuggerUtility;
 
 /**
  * Cache Repository
